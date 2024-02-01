@@ -1,0 +1,27 @@
+body{
+    margin: 20px;
+}
+.photo{
+    width: 150px;
+  
+  }
+  .card{
+    width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    display: flex;
+    padding: 20px;
+    background-color: beige;
+    justify-content: space-around;
+    border-bottom: 6px solid rgba(128, 0, 128, 0.103);
+    border-radius:20px;
+
+  }
+  p{
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+  }
